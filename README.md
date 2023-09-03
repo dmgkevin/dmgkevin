@@ -1,4 +1,4 @@
-### Prazer, meu nome é Kevin👋
+### Prazer, meu nome é Kevin
 
 - 🌱 Atualmente estudando Java 
 <div style="display: inline_block"><br>
